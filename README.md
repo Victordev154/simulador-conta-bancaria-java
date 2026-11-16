@@ -25,3 +25,9 @@ Aplicação de console desenvolvida em Java para simular as operações básicas
 ## 🎥 Demonstração
 
 https://drive.google.com/file/d/13PFd1iNR5vjMe67ST2ub6wga0RW-4rZp/view?usp=sharing
+
+
+
+https://github.com/user-attachments/assets/e5066a8e-c0f0-4247-adc7-1c257e70c9b5
+
+
