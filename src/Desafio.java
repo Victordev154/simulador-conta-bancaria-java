@@ -14,8 +14,8 @@ public class Desafio {
 
         System.out.println("**************************************");
         System.out.println("nome do cliente = " + nome);
-        System.out.println("nome da conta = " + tipoConta);
-        System.out.println("nome em conta = %.2f".formatted(saldo));
+        System.out.println("tipo da conta = " + tipoConta);
+        System.out.println("saldo disponivel = %.2f".formatted(saldo));
         System.out.println("**************************************");
 
         String menu = """
